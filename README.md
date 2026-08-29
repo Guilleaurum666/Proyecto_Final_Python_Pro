@@ -1,7 +1,7 @@
 # Proyecto_Final_Python_Pro
 
 
-# Proyecto: EcoChecker
+# Proyecto: ClimaVerify
 
 ## Idea
 Un bot de Discord que analiza textos o noticias ecológicas con web scraping y análisis de texto para detectar publicidad ambiental engañosa (greenwashing) y generar nubes de palabras.
