@@ -34,10 +34,10 @@ A personas y comunidades de Discord que buscan verificar la veracidad de noticia
 
 # ¿Cómo funcionará en términos generales?
 
-1. Envías un texto o enlace con !analizar.
+1. Envías un texto o enlace con $analizar.
 
 2. El bot extrae el texto, analiza la frecuencia de palabras y da un diagnóstico de credibilidad.
 
-3. Con !nube, genera una nube de palabras con los temas ambientales más leídos de la semana.
+3. Con $nube, genera una nube de palabras con los temas ambientales más leídos de la semana.
 
 4. Los datos se guardan en SQLite para llevar un registro.
