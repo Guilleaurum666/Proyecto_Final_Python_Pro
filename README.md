@@ -1,43 +1,94 @@
-# Proyecto_Final_Python_Pro
+# 🌿 ClimaVerify — Bot de Discord para Detección de Greenwashing
 
+![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)
+![Discord.py](https://img.shields.io/badge/Discord.py-v2.3.0-5865F2?style=for-the-badge&logo=discord)
+![Database](https://img.shields.io/badge/Database-SQLite3-003B57?style=for-the-badge&logo=sqlite)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-# Proyecto: ClimaVerify
+> **Proyecto:** Proyecto Final Python Pro  
+> **Autor:** [Tu Nombre / Usuario de GitHub] =)  
 
-## Idea
-Un bot de Discord que analiza textos o noticias ecológicas con web scraping y análisis de texto para detectar publicidad ambiental engañosa (greenwashing) y generar nubes de palabras.
+---
 
-## Tipo de proyecto
-Bot de Discord + Web Scraping + Análisis de texto + Base de datos SQLite.
+## 📋 Tabla de Contenidos
+- [📖 Descripción del Proyecto](#-descripción-del-proyecto)
+- [🎯 Problema que Resuelve y Público Objetivo](#-problema-que-resuelve-y-público-objetivo)
+- [✨ Funciones y Características](#-funciones-y-características)
+- [🛠️ Tecnologías Utilizadas](#️-tecnologías-utilizadas)
+- [🎬 Demostración del Funcionamiento](#-demostración-del-funcionamiento)
+- [⚙️ Instalación y Configuración](#️-instalación-y-configuración)
+- [💻 Guía de Uso y Comandos](#-guía-de-uso-y-comandos)
+- [💬 Comentarios y Contribuciones](#-comentarios-y-contribuciones)
+- [💡 Conclusión](#-conclusión)
 
-## Tecnologías
-- Python (venv, Clases y Métodos, PEP8)
-- discord.py
-- Trabajo con texto (Scraping, análisis de frecuencia y Nubes de palabras)
-- SQLite (Bases de datos para guardar el historial)
+---
 
-## Problema que resuelve
-La desinformación ambiental y las promesas ecológicas falsas en internet.
+## 📖 Descripción del Proyecto
 
-## Preguntas del proyecto
-¿Qué problema relacionado con el cambio climático resuelve?
-Filtra la publicidad engañosa para ayudar a los usuarios a reconocer datos e iniciativas climáticas reales.
+**ClimaVerify** es un bot de Discord inteligente concebido para combatir la desinformación ambiental y el *greenwashing* (publicidad ecológica engañosa) en medios digitales. 
 
-# ¿A quién ayuda o beneficia?
-A personas y comunidades de Discord que buscan verificar la veracidad de noticias o comunicados ambientales.
+Mediante el procesamiento de texto y técnicas de *web scraping*, **ClimaVerify** analiza noticias, comunicados o declaraciones corporativas para evaluar su grado de credibilidad, extrayendo métricas de frecuencia de palabras y generando representaciones visuales para la comunidad.
 
-# ¿Qué tecnologías van a usar de las que ya conocemos?
+---
 
-- Bots de Discord: Entrada y salida de comandos.
-- Datos de texto: Scraping de webs, conteo de frecuencias y creación de nubes de palabras.
-- Bases de datos (SQLite): Guardado del historial de noticias analizadas.
-- Clases y Métodos: Estructura limpia del código en módulos.
+## 🎯 Problema que Resuelve y Público Objetivo
 
-# ¿Cómo funcionará en términos generales?
+### 🛑 El Problema
+En la actualidad, proliferan las afirmaciones de sostenibilidad falsas o sesgadas en internet. La falta de herramientas accesibles dificulta que las personas verifiquen si una iniciativa ambiental cuenta con respaldo real o si es meramente un ardid publicitario.
 
-1. Envías un texto o enlace con $analizar.
+### 👥 ¿A quién beneficia?
+* **Comunidades ambientales:** Servidores de Discord enfocados en la ecología y la sostenibilidad.
+* **Usuarios e Investigadores:** Personas que buscan contrastar titulares e información climática rápidamente.
+* **Debates informados:** Canales de debate que requieren verificar fuentes antes de compartir noticias.
 
-2. El bot extrae el texto, analiza la frecuencia de palabras y da un diagnóstico de credibilidad.
+---
 
-3. Con $nube, genera una nube de palabras con los temas ambientales más leídos de la semana.
+## ✨ Funciones y Características
 
-4. Los datos se guardan en SQLite para llevar un registro.
+| Función | Descripción |
+| :--- | :--- |
+| 🔍 **Análisis de Credibilidad** | Evalúa textos o enlaces de noticias mediante *scraping* y algoritmos de frecuencia de palabras clave. |
+| ☁️ **Generación de Nubes de Palabras** | Sintetiza visualmente las temáticas climáticas más consultadas de la semana. |
+| 🗄️ **Historial en Base de Datos** | Almacena el registro de consultas en SQLite3 para el seguimiento de tendencias. |
+| 🧱 **Arquitectura Modular (OOP)** | Código estructurado en clases y métodos cumpliendo las directrices **PEP8**. |
+
+---
+
+## 🛠️ Tecnologías Utilizadas
+
+* **Lenguaje:** `Python 3.10+` (Uso de entorno virtual `venv`)
+* **Librería del Bot:** `discord.py`
+* **Scraping y Procesamiento:** `BeautifulSoup4` / `requests` / `WordCloud`
+* **Persistencia:** `SQLite3` (Base de datos relacional)
+* **Estándar de Código:** `PEP8`
+
+---
+
+## 🎬 Demostración del Funcionamiento
+
+### Capturas de Pantalla
+
+| Comando `$analizar` | Comando `$nube` |
+| :---: | :---: |
+| ![Demo Analizar](docs/screenshots/demo_analizar.png) | ![Demo Nube](docs/screenshots/demo_nube.png) |
+
+---
+
+### 🎥 Vídeo Demostrativo
+Puedes ver una demostración completa del funcionamiento en YouTube:  
+▶️ [Ver Demostración de ClimaVerify en YouTube](https://youtube.com) *(Reemplazar con enlace real)*
+
+---
+
+## ⚙️ Instalación y Configuración
+
+### Pre-requisitos
+* Python 3.10 o superior instalado.
+* Cuenta de desarrollador en Discord con un Bot creado.
+
+### Pasos para la instalación
+
+1. **Clonar el repositorio:**
+   ```bash
+   git clone [https://github.com/tu-usuario/ClimaVerify.git](https://github.com/tu-usuario/ClimaVerify.git)
+   cd ClimaVerify
