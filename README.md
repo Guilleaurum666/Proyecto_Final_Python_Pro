@@ -36,30 +36,9 @@ En la actualidad, proliferan las afirmaciones de sostenibilidad falsas o sesgada
 
 ---
 
-💻 Guía de Uso y ComandosComandoParámetrosDescripción$analizar<URL o Texto>Extrae el texto, analiza patrones y devuelve un diagnóstico de credibilidad.$nubeNingunoGenera y envía una imagen con la nube de palabras de las consultas recientes.$historialNingunoMuestra las últimas noticias o textos guardados en la base de datos.
-
----
-
-💬 Comentarios y Contribuciones
-¡Las sugerencias y contribuciones son siempre bienvenidas!
-
-🐛 ¿Especialmente un error? Abre un reporte en la pestaña de Issues.
-
-💡 ¿Quieres proponer una mejora? Revisa las discusiones o crea un nuevo Issue.
-
-🔀 ¿Deseas aportar código?
-
-Haz un Fork del proyecto.
-
-Crea tu rama de características (git checkout -b feature/NuevaCaracteristica).
-
-Haz un Commit de tus cambios (git commit -m 'Añadir NuevaCaracteristica').
-
-Realiza un Push a la rama (git push origin feature/NuevaCaracteristica).
-
-Abre un Pull Request.
-
----
+💻 Guía de Uso y de Comandos
+$analizar: Extrae el texto, analiza patrones y devuelve un diagnóstico de credibilidad.
+$nube: Genera y envía una imagen con la nube de palabras de las consultas recientes.
 
 💡 Conclusión
 ClimaVerify demuestra el potencial de combinar herramientas de código abierto como Python, discord.py y SQLite para abordar un problema social y ecológico crítico: la desinformación climática. Al proporcionar un mecanismo transparente y automatizado para examinar el discurso ecológico, el proyecto empodera a los usuarios para detectar el greenwashing y promover una conciencia ambiental basada en datos reales.
