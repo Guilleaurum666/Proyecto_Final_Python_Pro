@@ -6,20 +6,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 > **Proyecto:** Proyecto Final Python Pro  
-> **Autor:** [Tu Nombre / Usuario de GitHub] =)  
-
----
-
-## 📋 Tabla de Contenidos
-- [📖 Descripción del Proyecto](#-descripción-del-proyecto)
-- [🎯 Problema que Resuelve y Público Objetivo](#-problema-que-resuelve-y-público-objetivo)
-- [✨ Funciones y Características](#-funciones-y-características)
-- [🛠️ Tecnologías Utilizadas](#️-tecnologías-utilizadas)
-- [🎬 Demostración del Funcionamiento](#-demostración-del-funcionamiento)
-- [⚙️ Instalación y Configuración](#️-instalación-y-configuración)
-- [💻 Guía de Uso y Comandos](#-guía-de-uso-y-comandos)
-- [💬 Comentarios y Contribuciones](#-comentarios-y-contribuciones)
-- [💡 Conclusión](#-conclusión)
+> **Autor:** Guillermo Fraile García
 
 ---
 
