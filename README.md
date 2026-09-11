@@ -1,10 +1,5 @@
 # 🌿 ClimaVerify — Bot de Discord para la Detección del Greenwashing
 
-![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)
-![Discord.py](https://img.shields.io/badge/Discord.py-v2.3.0-5865F2?style=for-the-badge&logo=discord)
-![Database](https://img.shields.io/badge/Database-SQLite3-003B57?style=for-the-badge&logo=sqlite)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-
 > **Proyecto:** Proyecto Final Python Pro  
 > **Autor:** Guillermo Fraile García
 
