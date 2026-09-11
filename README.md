@@ -54,41 +54,30 @@ En la actualidad, proliferan las afirmaciones de sostenibilidad falsas o sesgada
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
-
-* **Lenguaje:** `Python 3.10+` (Uso de entorno virtual `venv`)
-* **Librería del Bot:** `discord.py`
-* **Scraping y Procesamiento:** `BeautifulSoup4` / `requests` / `WordCloud`
-* **Persistencia:** `SQLite3` (Base de datos relacional)
-* **Estándar de Código:** `PEP8`
+💻 Guía de Uso y ComandosComandoParámetrosDescripción$analizar<URL o Texto>Extrae el texto, analiza patrones y devuelve un diagnóstico de credibilidad.$nubeNingunoGenera y envía una imagen con la nube de palabras de las consultas recientes.$historialNingunoMuestra las últimas noticias o textos guardados en la base de datos.
 
 ---
 
-## 🎬 Demostración del Funcionamiento
+💬 Comentarios y Contribuciones
+¡Las sugerencias y contribuciones son siempre bienvenidas!
 
-### Capturas de Pantalla
+🐛 ¿Especialmente un error? Abre un reporte en la pestaña de Issues.
 
-| Comando `$analizar` | Comando `$nube` |
-| :---: | :---: |
-| ![Demo Analizar](docs/screenshots/demo_analizar.png) | ![Demo Nube](docs/screenshots/demo_nube.png) |
+💡 ¿Quieres proponer una mejora? Revisa las discusiones o crea un nuevo Issue.
+
+🔀 ¿Deseas aportar código?
+
+Haz un Fork del proyecto.
+
+Crea tu rama de características (git checkout -b feature/NuevaCaracteristica).
+
+Haz un Commit de tus cambios (git commit -m 'Añadir NuevaCaracteristica').
+
+Realiza un Push a la rama (git push origin feature/NuevaCaracteristica).
+
+Abre un Pull Request.
 
 ---
 
-### 🎥 Vídeo Demostrativo
-Puedes ver una demostración completa del funcionamiento en YouTube:  
-▶️ [Ver Demostración de ClimaVerify en YouTube](https://youtube.com) *(Reemplazar con enlace real)*
-
----
-
-## ⚙️ Instalación y Configuración
-
-### Pre-requisitos
-* Python 3.10 o superior instalado.
-* Cuenta de desarrollador en Discord con un Bot creado.
-
-### Pasos para la instalación
-
-1. **Clonar el repositorio:**
-   ```bash
-   git clone [https://github.com/tu-usuario/ClimaVerify.git](https://github.com/tu-usuario/ClimaVerify.git)
-   cd ClimaVerify
+💡 Conclusión
+ClimaVerify demuestra el potencial de combinar herramientas de código abierto como Python, discord.py y SQLite para abordar un problema social y ecológico crítico: la desinformación climática. Al proporcionar un mecanismo transparente y automatizado para examinar el discurso ecológico, el proyecto empodera a los usuarios para detectar el greenwashing y promover una conciencia ambiental basada en datos reales.
