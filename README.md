@@ -9,7 +9,7 @@
 
 **ClimaVerify** es un bot de Discord inteligente concebido para combatir la desinformación ambiental y el *greenwashing* (publicidad ecológica engañosa) en medios digitales. 
 
-Mediante el procesamiento de texto y técnicas de *web scraping*, **ClimaVerify** analiza noticias, comunicados o declaraciones corporativas para evaluar su grado de credibilidad, extrayendo métricas de frecuencia de palabras y generando representaciones visuales para la comunidad.
+Mediante el procesamiento de texto y técnicas de *web scraping* (técnica automatizada para extraer datos de páginas web y transformarlos en formatos estructurados) **ClimaVerify** analiza noticias, comunicados o declaraciones corporativas para evaluar su grado de credibilidad, extrayendo métricas de frecuencia de palabras y generando representaciones visuales para el usuario.
 
 ---
 
