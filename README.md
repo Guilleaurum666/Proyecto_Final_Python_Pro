@@ -32,7 +32,7 @@ En la actualidad, proliferan las afirmaciones de sostenibilidad falsas o sesgada
 | 🔍 **Análisis de Credibilidad** | Evalúa textos o enlaces de noticias mediante *scraping* y algoritmos de frecuencia de palabras clave. |
 | ☁️ **Generación de Nubes de Palabras** | Sintetiza visualmente las temáticas climáticas más consultadas de la semana. |
 | 🗄️ **Historial en Base de Datos** | Almacena el registro de consultas en SQLite3 para el seguimiento de tendencias. |
-| 🧱 **Arquitectura Modular (OOP)** | Código estructurado en clases y métodos cumpliendo las directrices **PEP8**. |
+| 🧱 **Arquitectura** | Código estructurado en clases y métodos cumpliendo las directrices **PEP8**. |
 
 ---
 
