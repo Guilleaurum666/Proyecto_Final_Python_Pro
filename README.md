@@ -16,7 +16,7 @@ Mediante el procesamiento de texto y técnicas de *web scraping* (técnica autom
 ## 🎯 Problema que Resuelve y Público Objetivo
 
 ### 🛑 El Problema
-En la actualidad, proliferan las afirmaciones de sostenibilidad falsas o sesgadas en internet. La falta de herramientas accesibles dificulta que las personas verifiquen si una iniciativa ambiental cuenta con respaldo real o si es meramente un ardid publicitario.
+En la actualidad, proliferan las afirmaciones de sostenibilidad falsas o sesgadas en internet. La falta de herramientas accesibles dificulta que las personas verifiquen si una iniciativa ambiental cuenta con respaldo real o si es meramente un truco publicitario.
 
 ### 👥 ¿A quién beneficia?
 * **Comunidades ambientales:** Servidores de Discord enfocados en la ecología y la sostenibilidad.
