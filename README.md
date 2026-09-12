@@ -36,9 +36,5 @@ En la actualidad, proliferan las afirmaciones de sostenibilidad falsas o sesgada
 
 ---
 
-💻 Guía de Uso y de Comandos
-$analizar: Extrae el texto, analiza patrones y devuelve un diagnóstico de credibilidad.
-$nube: Genera y envía una imagen con la nube de palabras de las consultas recientes.
-
 💡 Conclusión
 ClimaVerify demuestra el potencial de combinar herramientas de código abierto como Python, discord.py y SQLite para abordar un problema social y ecológico crítico: la desinformación climática. Al proporcionar un mecanismo transparente y automatizado para examinar el discurso ecológico, el proyecto empodera a los usuarios para detectar el greenwashing y promover una conciencia ambiental basada en datos reales.
